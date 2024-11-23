@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ExportGPT/static/css/main.aae68076.css",
+    "main.js": "/ExportGPT/static/js/main.61a964a6.js",
+    "static/js/453.8d6f4c4b.chunk.js": "/ExportGPT/static/js/453.8d6f4c4b.chunk.js",
+    "index.html": "/ExportGPT/index.html",
+    "main.aae68076.css.map": "/ExportGPT/static/css/main.aae68076.css.map",
+    "main.61a964a6.js.map": "/ExportGPT/static/js/main.61a964a6.js.map",
+    "453.8d6f4c4b.chunk.js.map": "/ExportGPT/static/js/453.8d6f4c4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aae68076.css",
+    "static/js/main.61a964a6.js"
+  ]
+}
