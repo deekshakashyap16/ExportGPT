@@ -48,19 +48,19 @@ This project is a multilingual export assistance platform designed to simplify t
 1. Clone the repository
 ```bash
 git clone https://github.com/deekshakashyap16/ExportGPT/
-cd multilingual-chat
+cd ExportGPT/multilingual-chat
 ```
 
 2. Frontend Setup
 ```bash
-cd multilingual-chat
+cd ExportGPT/multilingual-chat
 npm install
 npm start
 ```
 
 3. Backend Setup
 ```bash
-cd multilingual-chat/backend
+cd ExportGPT/multilingual-chat/backend
 npm install
 node server.js
 ```
