@@ -59,6 +59,7 @@ npm start
 ```
 
 3. Backend Setup
+   Run in a separate terminal
 ```bash
 cd ExportGPT/multilingual-chat/backend
 npm install
