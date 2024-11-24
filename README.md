@@ -108,10 +108,3 @@ This is a prototype as a part of a hackathon
 ## Team
 - Deeksha Kashyap
 - Srirama V Swamy
-
-## License
-This project is licensed under the [License Name] - see the LICENSE.md file for details
-
-## Acknowledgments
-- Thanks to [mention any third-party services, libraries, or people]
-- Special thanks to our mentors and judges
