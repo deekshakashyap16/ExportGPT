@@ -65,8 +65,6 @@ npm install
 node server.js
 ```
 
-The application will be available at `http://localhost:5000`
-
 ## Usage
 
 AI Assistant: Ask export-related queries and get multilingual responses.
